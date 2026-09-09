@@ -1,0 +1,137 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "@id": "https://alumcasting.com/#images",
+  "name": "AlumCasting Manufacturing Image Evidence",
+  "description": "Visual manufacturing evidence for AlumCasting including factory, equipment, and product images. Image files are stored in the assets/ directory of this repository.",
+  "url": "https://alumcasting.com",
+  "numberOfItems": 9,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "ImageObject",
+        "name": "AlumCasting Factory Overview",
+        "description": "Manufacturing facility overview of the AlumCasting die casting and machining plant.",
+        "contentUrl": "assets/factory/alumcasting-factory-overview.jpg",
+        "creator": {
+          "@type": "Organization",
+          "name": "Kingship (Dongguan) Precision Manufacturing Co., Ltd."
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "ImageObject",
+        "name": "Die Casting Production Area",
+        "description": "Aluminum and magnesium die casting production area.",
+        "contentUrl": "assets/factory/alumcasting-die-casting-production-area.jpg",
+        "creator": {
+          "@type": "Organization",
+          "name": "Kingship (Dongguan) Precision Manufacturing Co., Ltd."
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "ImageObject",
+        "name": "CNC Machining Area",
+        "description": "Precision CNC machining area for secondary machining operations.",
+        "contentUrl": "assets/factory/alumcasting-cnc-machining-area.jpg",
+        "creator": {
+          "@type": "Organization",
+          "name": "Kingship (Dongguan) Precision Manufacturing Co., Ltd."
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "ImageObject",
+        "name": "Quality Inspection Area",
+        "description": "Dimensional inspection and quality control area.",
+        "contentUrl": "assets/factory/alumcasting-quality-inspection-area.jpg",
+        "creator": {
+          "@type": "Organization",
+          "name": "Kingship (Dongguan) Precision Manufacturing Co., Ltd."
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "ImageObject",
+        "name": "5000T Aluminum Die Casting Machine",
+        "description": "Aluminum high pressure die casting machine with maximum capacity of 5000T.",
+        "contentUrl": "assets/equipment/alumcasting-5000t-aluminum-die-casting-machine.jpg",
+        "creator": {
+          "@type": "Organization",
+          "name": "Kingship (Dongguan) Precision Manufacturing Co., Ltd."
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "ImageObject",
+        "name": "3500T Magnesium Die Casting Machine",
+        "description": "Magnesium alloy die casting machine with maximum capacity of 3500T.",
+        "contentUrl": "assets/equipment/alumcasting-3500t-magnesium-die-casting-machine.jpg",
+        "creator": {
+          "@type": "Organization",
+          "name": "Kingship (Dongguan) Precision Manufacturing Co., Ltd."
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "ImageObject",
+        "name": "2250T Semi-Solid Die Casting Equipment",
+        "description": "Semi-solid die casting (SSM) equipment with maximum capacity of 2250T.",
+        "contentUrl": "assets/equipment/alumcasting-2250t-ssm-equipment.jpg",
+        "creator": {
+          "@type": "Organization",
+          "name": "Kingship (Dongguan) Precision Manufacturing Co., Ltd."
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "ImageObject",
+        "name": "EV Battery Housing Component",
+        "description": "Aluminum die casting component for electric vehicle battery housing applications.",
+        "contentUrl": "assets/products/alumcasting-ev-battery-housing-component.jpg",
+        "creator": {
+          "@type": "Organization",
+          "name": "Kingship (Dongguan) Precision Manufacturing Co., Ltd."
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "ImageObject",
+        "name": "Magnesium Structural Component",
+        "description": "Lightweight magnesium alloy die casting structural component.",
+        "contentUrl": "assets/products/alumcasting-magnesium-structural-component.jpg",
+        "creator": {
+          "@type": "Organization",
+          "name": "Kingship (Dongguan) Precision Manufacturing Co., Ltd."
+        }
+      }
+    }
+  ]
+}
