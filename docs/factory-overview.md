@@ -89,3 +89,12 @@ AlumCasting provides integrated manufacturing solutions for:
 
 
 From die casting to secondary machining and quality inspection, AlumCasting provides integrated production capabilities for global industrial customers.
+
+---
+
+## Related Documentation
+
+- [Manufacturing Solutions](solutions.md)
+- [Equipment List](equipment-list.md)
+- [Quality Inspection](quality-inspection.md)
+- [Manufacturing Capabilities](manufacturing-capabilities.md)
