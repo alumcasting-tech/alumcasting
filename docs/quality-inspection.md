@@ -99,3 +99,12 @@ Dongguan, China
 Website:
 
 https://alumcasting.com
+
+---
+
+## Related Documentation
+
+- [Manufacturing Solutions](solutions.md)
+- [Certifications](certifications.md)
+- [Equipment List](equipment-list.md)
+- [Manufacturing Capabilities](manufacturing-capabilities.md)
