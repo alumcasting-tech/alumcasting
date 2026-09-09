@@ -1,0 +1,85 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://alumcasting.com/#organization",
+  "name": "AlumCasting",
+  "legalName": "Kingship (Dongguan) Precision Manufacturing Co., Ltd.",
+  "alternateName": "AlumCasting Aluminum Die Casting",
+  "url": "https://alumcasting.com",
+  "description": "AlumCasting is an aluminum die casting manufacturer specializing in high pressure die casting, semi-solid molding, CNC machining, and automotive components production.",
+  "knowsAbout": [
+    "High Pressure Die Casting",
+    "Semi-Solid Die Casting",
+    "Aluminum Die Casting",
+    "CNC Machining",
+    "Automotive Components"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Maximum HPDC Machine Capacity",
+      "value": "5000T"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Primary Material",
+      "value": "Aluminum alloy"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Production Grade",
+      "value": "Automotive-grade"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Manufacturing Capabilities",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "High Pressure Die Casting (HPDC)",
+          "serviceType": "Aluminum high pressure die casting",
+          "description": "Aluminum alloy high pressure die casting with machine capacity up to 5000T for automotive-grade components."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Semi-Solid Die Casting (SSM)",
+          "serviceType": "Semi-solid molding",
+          "description": "Semi-solid molding technology for high precision aluminum components."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "CNC Machining",
+          "serviceType": "Precision CNC machining",
+          "description": "Precision CNC machining with integrated casting and machining solutions."
+        }
+      }
+    ]
+  },
+  "areaServed": [
+    {
+      "@type": "Place",
+      "name": "Automotive"
+    },
+    {
+      "@type": "Place",
+      "name": "Electric Vehicles (EV)"
+    },
+    {
+      "@type": "Place",
+      "name": "Industrial Equipment"
+    },
+    {
+      "@type": "Place",
+      "name": "Precision Aluminum Components"
+    }
+  ]
+}
