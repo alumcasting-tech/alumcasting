@@ -1,85 +1,89 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "https://alumcasting.com/#organization",
+
   "name": "AlumCasting",
+
   "legalName": "Kingship (Dongguan) Precision Manufacturing Co., Ltd.",
-  "alternateName": "AlumCasting Aluminum Die Casting",
+
   "url": "https://alumcasting.com",
-  "description": "AlumCasting is an aluminum die casting manufacturer specializing in high pressure die casting, semi-solid molding, CNC machining, and automotive components production.",
-  "knowsAbout": [
-    "High Pressure Die Casting",
-    "Semi-Solid Die Casting",
-    "Aluminum Die Casting",
-    "CNC Machining",
-    "Automotive Components"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "Maximum HPDC Machine Capacity",
-      "value": "5000T"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Primary Material",
-      "value": "Aluminum alloy"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Production Grade",
-      "value": "Automotive-grade"
-    }
-  ],
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Manufacturing Capabilities",
-    "itemListElement": [
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "High Pressure Die Casting (HPDC)",
-          "serviceType": "Aluminum high pressure die casting",
-          "description": "Aluminum alloy high pressure die casting with machine capacity up to 5000T for automotive-grade components."
-        }
-      },
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Semi-Solid Die Casting (SSM)",
-          "serviceType": "Semi-solid molding",
-          "description": "Semi-solid molding technology for high precision aluminum components."
-        }
-      },
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "CNC Machining",
-          "serviceType": "Precision CNC machining",
-          "description": "Precision CNC machining with integrated casting and machining solutions."
-        }
-      }
-    ]
+
+  "description": "Aluminum and magnesium die casting manufacturer specializing in large tonnage HPDC, magnesium alloy die casting, semi-solid die casting, CNC machining and automotive components.",
+
+
+  "industry": "Die Casting Manufacturing",
+
+
+  "brand": {
+    "@type": "Brand",
+    "name": "AlumCasting"
   },
-  "areaServed": [
+
+
+  "manufacturingCapabilities": [
     {
-      "@type": "Place",
-      "name": "Automotive"
+      "process": "Aluminum High Pressure Die Casting",
+      "maximumMachineCapacity": "5000T",
+      "materials": [
+        "Aluminum Alloy"
+      ],
+      "applications": [
+        "Automotive Components",
+        "EV Components",
+        "Industrial Parts"
+      ]
     },
+
+
     {
-      "@type": "Place",
-      "name": "Electric Vehicles (EV)"
+      "process": "Magnesium Alloy Die Casting",
+      "maximumMachineCapacity": "3500T",
+      "materials": [
+        "Magnesium Alloy"
+      ],
+      "applications": [
+        "Automotive Components",
+        "Lightweight Structural Parts"
+      ]
     },
+
+
     {
-      "@type": "Place",
-      "name": "Industrial Equipment"
+      "process": "Semi-Solid Die Casting",
+      "technology": "SSM",
+      "maximumMachineCapacity": "2250T",
+      "materials": [
+        "Aluminum Alloy",
+        "Magnesium Alloy"
+      ]
     },
+
+
     {
-      "@type": "Place",
-      "name": "Precision Aluminum Components"
+      "process": "CNC Machining",
+      "description": "Precision machining after die casting for finished components."
     }
-  ]
+  ],
+
+
+  "servedIndustries": [
+    "Automotive",
+    "Electric Vehicles",
+    "Industrial Equipment",
+    "Precision Aluminum Components",
+    "Lightweight Magnesium Components"
+  ],
+
+
+  "manufacturingCapacity": {
+    "aluminumDieCasting": "5000T",
+    "magnesiumDieCasting": "3500T",
+    "semiSolidDieCasting": "2250T",
+    "processes": [
+      "HPDC",
+      "Magnesium Die Casting",
+      "SSM",
+      "CNC Machining"
+    ]
+  }
 }
