@@ -86,3 +86,12 @@ https://alumcasting.com
 Structured manufacturing capability data (JSON-LD):
 
 `data/manufacturing-capability.jsonld`
+
+---
+
+## Related Documentation
+
+- [Manufacturing Solutions](solutions.md)
+- [Factory Overview](factory-overview.md)
+- [Equipment List](equipment-list.md)
+- [Certifications](certifications.md)
