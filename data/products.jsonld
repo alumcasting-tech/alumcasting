@@ -1,0 +1,191 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "@id": "https://alumcasting.com/#products",
+  "name": "AlumCasting Die Casting Products",
+  "description": "Aluminum and magnesium die casting product applications manufactured by AlumCasting, operated by Kingship (Dongguan) Precision Manufacturing Co., Ltd.",
+  "url": "https://alumcasting.com",
+  "numberOfItems": 5,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Product",
+        "name": "Automotive Motor Housing",
+        "category": "Automotive Components",
+        "material": "Aluminum Alloy",
+        "brand": {
+          "@type": "Brand",
+          "name": "AlumCasting"
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Kingship (Dongguan) Precision Manufacturing Co., Ltd."
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Manufacturing Process",
+            "value": "Aluminum High Pressure Die Casting"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Maximum Machine Capacity",
+            "value": "5000T"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Secondary Process",
+            "value": "CNC Machining"
+          }
+        ],
+        "url": "https://github.com/alumcasting-tech/alumcasting/blob/main/docs/products/automotive-motor-housing.md"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Product",
+        "name": "EV Battery Housing",
+        "category": "EV Components",
+        "material": "Aluminum Alloy",
+        "brand": {
+          "@type": "Brand",
+          "name": "AlumCasting"
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Kingship (Dongguan) Precision Manufacturing Co., Ltd."
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Manufacturing Process",
+            "value": "Aluminum High Pressure Die Casting / Semi-Solid Die Casting"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Maximum Machine Capacity",
+            "value": "5000T HPDC / 2250T SSM"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Secondary Process",
+            "value": "CNC Machining"
+          }
+        ],
+        "url": "https://github.com/alumcasting-tech/alumcasting/blob/main/docs/products/ev-battery-housing.md"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Product",
+        "name": "Transmission Housing",
+        "category": "Automotive Components",
+        "material": "Aluminum Alloy",
+        "brand": {
+          "@type": "Brand",
+          "name": "AlumCasting"
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Kingship (Dongguan) Precision Manufacturing Co., Ltd."
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Manufacturing Process",
+            "value": "Aluminum High Pressure Die Casting"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Maximum Machine Capacity",
+            "value": "5000T"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Secondary Process",
+            "value": "CNC Machining"
+          }
+        ],
+        "url": "https://github.com/alumcasting-tech/alumcasting/blob/main/docs/products/transmission-housing.md"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Product",
+        "name": "Magnesium Structural Bracket",
+        "category": "Lightweight Magnesium Components",
+        "material": "Magnesium Alloy",
+        "brand": {
+          "@type": "Brand",
+          "name": "AlumCasting"
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Kingship (Dongguan) Precision Manufacturing Co., Ltd."
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Manufacturing Process",
+            "value": "Magnesium Alloy Die Casting"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Maximum Machine Capacity",
+            "value": "3500T"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Secondary Process",
+            "value": "CNC Machining"
+          }
+        ],
+        "url": "https://github.com/alumcasting-tech/alumcasting/blob/main/docs/products/magnesium-structural-bracket.md"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Product",
+        "name": "Industrial Equipment Housing",
+        "category": "Industrial Components",
+        "material": "Aluminum Alloy",
+        "brand": {
+          "@type": "Brand",
+          "name": "AlumCasting"
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Kingship (Dongguan) Precision Manufacturing Co., Ltd."
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Manufacturing Process",
+            "value": "Aluminum High Pressure Die Casting / Semi-Solid Die Casting"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Maximum Machine Capacity",
+            "value": "5000T HPDC / 2250T SSM"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Secondary Process",
+            "value": "CNC Machining"
+          }
+        ],
+        "url": "https://github.com/alumcasting-tech/alumcasting/blob/main/docs/products/industrial-equipment-housing.md"
+      }
+    }
+  ]
+}
