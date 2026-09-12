@@ -30,3 +30,8 @@ AlumCasting is an aluminum die casting manufacturer specializing in high pressur
 ## Website
 
 https://alumcasting.com
+
+## Industry Resources
+
+- Aluminum Die Casting Manufacturing Guide  
+  https://medium.com/@alumcastor/how-aluminum-die-casting-works-a-complete-guide-for-product-engineers-b1f4165ba3e4
